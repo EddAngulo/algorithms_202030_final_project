@@ -1,0 +1,41 @@
+Inicio
+a=a+1
+Para i=1,n,+1
+a=a+1
+Si (a==1) y (b==2)
+a=a+1
+b=b+1
+c=c+1
+Sino
+a=a+1
+b=b+1
+c=c+1
+d=d+1
+FSi
+Para j=1,n,+1
+a=a+1
+b=b+1
+Si (a==1) y (b==2)
+a=a+1
+b=b+1
+c=c+1
+Sino
+a=a+1
+b=b+1
+c=c+1
+d=d+1
+FSi
+c=c+1
+d=d+1
+Fpara
+a=a+1
+Si (a==1)
+a=a+1
+b=b+1
+c=c+1
+FSi
+Fpara
+Para i=n,1,-1
+a=a+1
+Fpara
+Pare
